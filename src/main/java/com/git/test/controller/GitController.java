@@ -3,19 +3,23 @@ package com.git.test.controller;
 
 public class GitController {
 
-    public void add(){
+    public void add1(){
         System.out.println("add...");
     }
 
-    public void delete(){
+    public void delete2(){
         System.out.println("delete...");
     }
 
-    public void update(){
+    public void update3(){
         System.out.println("update...");
     }
 
-    public void find(){
+    public void find4(){
         System.out.println("find...");
+    }
+
+    public void findById(){
+        System.out.println("findById...");
     }
 }
