@@ -23,4 +23,7 @@ public class GitController {
         System.out.println("findById...");
     }
 
+    public void deleteById(){
+        System.out.println("deleteById...");
+    }
 }
