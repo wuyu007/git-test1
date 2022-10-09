@@ -26,4 +26,8 @@ public class GitController {
     public void deleteById(){
         System.out.println("deleteById...");
     }
+    
+    public void maybetest(){
+        System.out.println("maybetest...");
+    }
 }
